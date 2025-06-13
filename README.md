@@ -15,5 +15,5 @@ Top buyers: Male Adults
 The lowest revenue month is September 2023
 Most sold product category: Clothing
 Top buyers: Female Adults
-![image](https://github.com/user-attachments/assets/f07c9a48-1ab9-45f9-a678-afbfd7376757)
+
 
